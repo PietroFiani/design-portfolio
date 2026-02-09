@@ -1,7 +1,6 @@
 # Claude Development Guide - Portfolio App
 
 ## Project Overview
-Personal portfolio built with:
 - **NuxtJS 4.3.1** (Vue 3.5.27)
 - **Bun** package manager
 - **Vite** bundler
@@ -9,10 +8,7 @@ Personal portfolio built with:
 - **Storybook** for component library
 
 ## Key Context
-- User: Product designer, familiar with dev concepts but not expert
 - Prefers clear explanations without complex examples
-- Environment: MacBook Pro M1
-- Location: `~/Desktop/portfolio-project/portfolio-app/`
 
 ## Development Commands
 ```bash
